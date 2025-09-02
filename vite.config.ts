@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base::"/portfolio",
+    base:"/moksha-portfolio",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
